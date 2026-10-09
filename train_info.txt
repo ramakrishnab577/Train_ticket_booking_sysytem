@@ -1,0 +1,4 @@
+1024  Chennai_mysuru_shatabdi_Express    Chennai_Central 	 Mysuru_jn		5
+2098  Mysuru_chennai_shatabdi_Express    Mysuru_jn      	 Chennai_Central	40
+3568  Karnataka_Express		         KSR_Bengaluru   	 NEW_Delhi		40
+4675  Karnataka_Express		         NEW_Delhi		 KSR_Bengaluru		40
